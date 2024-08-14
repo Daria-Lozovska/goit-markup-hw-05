@@ -698,6 +698,7 @@ input {
 
 .modal-closed:hover,
 .modal-closed:focus {
+        background-color: #404bbf;
         border: none;
 }
 
@@ -805,13 +806,13 @@ input {
 }
 
 .checkbox:checked~.check-label .checkbox-icon {
-        fill: #F4F4F4;
+        fill: #F4F4FD;
 }
 
 .checkbox:checked~.check-label .check-box {
         background-color: #404BBF;
         border: none;
-        fill: #f4f4f4;
+        fill: #f4f4fD;
 }
 
 .checkbox-icon {
